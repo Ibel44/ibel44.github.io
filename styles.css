@@ -130,3 +130,15 @@ body {
     color: #2afff8;
     text-shadow: 1px 1px 3px black;
 }
+
+.other-links {
+    margin-top: 30px;
+}
+
+.other-links h1 {
+    font-size: 21px;
+}
+
+.other-links a:hover {
+    filter: invert(100%);
+}
